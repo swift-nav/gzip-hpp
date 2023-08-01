@@ -4,6 +4,7 @@
 #include <zlib.h>
 
 // std
+#include <cstdint>
 #include <limits>
 #include <stdexcept>
 #include <string>
