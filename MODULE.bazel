@@ -1,6 +1,6 @@
 module(
     name = "gzip_hpp",
-    version = "1.0.0",
+    version = "0.1.0.swiftnav",
     compatibility_level = 1,
 )
 
